@@ -1,4 +1,4 @@
 function Saludar()
 {
-	alert("Hola mundo");
+	alert("Hola mundo" + "date" );
 }
