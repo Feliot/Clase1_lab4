@@ -1,4 +1,4 @@
 function Saludar()
 {
-	alert( $("p"));
+	alert( $("p")[0]);
 }
